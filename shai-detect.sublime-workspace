@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shai",
+				"shai-hulud-detect"
+			],
+			[
+				"sha",
+				"shai-hulud-detect"
+			],
+			[
+				"dove",
+				"add-dovecot-masterpass"
+			],
+			[
+				"shell",
+				"shell_output"
+			],
+			[
+				"el",
+				"elasticsearch"
+			],
+			[
+				"cloud",
+				"cloud_rsa_pubkey_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Terminal",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termina",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jesse/Programming/Bash_Scripting/TuCows/shai-hulud-detect"
+	],
+	"file_history":
+	[
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/scan_fleet_npm_exploits.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/deploy_vhost_alt.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/update_motd.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/alt_hostnames",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/shai-hulud-detect/shai-hulud-detector.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/shai-detect.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/alt_hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/more_alt",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/dns_records_pull.sh",
+		"/home/jesse/Programming/Bash_Scripting/misc/monitoring_tmux_startup.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/Bronze",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/install_snmp.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/orca_allow.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/alt_vhost_create.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/apache_mylog_filebeat.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/restart_apache.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/motd_cl.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/motd_centos7.sh",
+		"/home/jesse/Programming/Bash_Scripting/TuCows/motd/motd.sh",
+		"/home/jesse/Programming/Bash_Scripting/TuCows/bash_automation/alt_hostnames_sorted",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/apache_restart.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/circle01_host",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/master_pass_hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/ve.cfg",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/EH-XXLarge-2022",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/deploy_backup_config.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/implement_cloudlinux_limits.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/deploy_apache_restart.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/Platinum",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/EH-Small-2022",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/EH-XLarge-2022",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/EH-Large-2022",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/EH-Medium-2022",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/Gold",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/pull_filebeat_config.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/dovecot_masterusers.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/passwd.masterusers",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/turtle-dev_host",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/remove_nthaneswaran.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/v_host_test",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/axe_host",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/qlen_update.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/filebeat.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/disable_phpinfo.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/disable_phpinfo.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/coral_host",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/remove_csf_cron.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/find_report_remove_npm_usage.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/implement_IH_cloudlinux_limits.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/ve_IH.cfg",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/fix_email_passwords.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/fix-email-passwords.rb",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/fix_email_passwords.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/update_authorized_keys.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/fastfetch_install.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/setup_filebeat.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/elasticsearch.repo",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/hosts_tuna",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/ca.crt",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/systemrun.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/host_nemo",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/README.md",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/qlen_hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/sitechecking.yaml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/Copper",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/cpanel_packages/Silver",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/ih_hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/testing_hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/zabbix-agent",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/stopfilebeat.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/postcpbackup_check.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/files/sitechecker.sh",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/automation_playbooks/.gitignore",
+		"/home/jesse/TuCows/Sublime_Workspace/Workspace",
+		"/home/jesse/TuCows/Sublime_Workspace/Commands",
+		"/home/jesse/TuCows/Sublime_Workspace/Notes",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/multirunner/hosts",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/multirunner/postcpbackup_check.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/multirunner/rvsitebuilder_finder.yml",
+		"/home/jesse/Programming/Ansible_Projects/TuCows/multirunner/fastfetch_install.yml",
+		"/home/jesse/Programming/Bash_Scripting/dcscripts/invpull.sh",
+		"/home/jesse/Programming/Bash_Scripting/pull_sync.sh",
+		"/home/jesse/LiquidWeb/Kate_Workspace/Workspace",
+		"/home/jesse/LiquidWeb/Kate_Workspace/Notes",
+		"/home/jesse/LiquidWeb/Kate_Workspace/Commands",
+		"/home/jesse/LiquidWeb/Kate_Workspace/Phone Notes",
+		"/home/jesse/.config/espanso/match/base.yml",
+		"/home/jesse/Documents/proxmox_api_zabbix",
+		"/home/jesse/Programming/Bash_Scripting/LW/specs/specs.sh",
+		"/home/jesse/LiquidWeb/Phone Notes",
+		"/home/jesse/Programming/Bash_Scripting/LW/supportscripts/facebook_externalhit_removal.sh",
+		"/home/jesse/Programming/Bash_Scripting/minecraft_backup/cc_restart.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/supportscripts/plesk_monitor.sh",
+		"/home/jesse/Programming/Bash_Scripting/minecraft_backup/minecraft_backup.sh",
+		"/home/jesse/ComServ/Network Evaul - 2025Q1/Evaluation",
+		"/home/jesse/Programming/Bash_Scripting/LW/supportscripts/update-grub-kernel.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/supportscripts/latestestkernel.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/lw-elevate-alma8/elevate-scripts/elevate_preflight.sh",
+		"/home/jesse/Downloads/mo2installer-5.0.3/step/clean_game_prefix.sh",
+		"/home/jesse/Downloads/mo2installer-5.0.3/step/configure_steam_wineprefix.sh",
+		"/home/jesse/Downloads/mo2installer-5.0.3/install.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/lw-elevate-alma8/elevate-scripts/exclude-extras",
+		"/home/jesse/Programming/Bash_Scripting/LW/lw-elevate-alma8/elevate-scripts/exclude-dirs",
+		"/home/jesse/Programming/Bash_Scripting/LW/lw-elevate-alma8/elevate-scripts/elevate_clone.sh",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/roles/liquidweb.os_upgrade_elevate_staging/tasks/main.yml",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/roles/liquidweb.os_upgrade_elevate_staging/files/stage1.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/lw-elevate-alma8/elevate-scripts/update-grub-kernel.sh",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/playbooks/elevate_staging.yml",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/playbooks/clone.yml",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/ansible.cfg",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/roles/liquidweb.os_upgrade_preflight/tasks/main.yml",
+		"/home/jesse/Programming/Ansible_Projects/LW/mh-support-ansible/roles/liquidweb.os_upgrade_elevate_staging/tasks/reboot.yml",
+		"/home/jesse/Programming/Bash_Scripting/misc/monitoring_tmux_startup_testing.sh",
+		"/home/jesse/Programming/CPP_Projects/dummies/math.cpp",
+		"/home/jesse/Programming/CPP_Projects/dummies/hello.cpp",
+		"/home/jesse/Programming/CPP_Projects/Temperature-Converter/Temperature Converter.cpp",
+		"/home/jesse/Programming/CPP_Projects/dummies/hello",
+		"/home/jesse/Programming/Bash_Scripting/churchscripts/streamwatcher.sh",
+		"/home/jesse/Programming/Bash_Scripting/LW/elevate_dry-run/README",
+		"/home/jesse/Programming/Bash_Scripting/minecraft_backup/dailybackup.sh",
+		"/home/jesse/Programming/Bash_Scripting/minecraft_backup/cinnabardailybackup.sh",
+		"/home/jesse/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/jesse/Programming/Bash_Scripting/specs/specs.sh",
+		"/home/jesse/Programming/Bash_Scripting/lw-elevate-alma8/elevate-scripts/elevate_clone.sh",
+		"/home/jesse/Programming/Bash_Scripting/misc/sublime_fix.sh"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 220.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "shai-detect.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

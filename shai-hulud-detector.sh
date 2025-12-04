@@ -7,15 +7,21 @@
 #
 # Requires: Bash 5.0+
 
+# Modified by: Jesse Richardson (jrichardson@tucows.com) [jrichardson/negativeflare]
+# Below I have commented out the "requirement" for Bash 5.0.
+# I've analyzed the Bash script and I'm not seeing any actual requirement for Bash 5.0
+# In fact, it looks like the scirpt would run just fine with Bash 4.4+
+
 # Require Bash 5.0+ for associative arrays, mapfile, and modern features
-if [[ -z "${BASH_VERSINFO[0]}" ]] || [[ "${BASH_VERSINFO[0]}" -lt 5 ]]; then
-    echo "ERROR: Shai-Hulud Detector requires Bash 5.0 or newer."
-    echo "You appear to be running: ${BASH_VERSION:-unknown}."
-    echo
-    echo "macOS:   brew install bash && run with:  /opt/homebrew/bin/bash $0 ..."
-    echo "Linux:   install a current bash via your package manager (bash 5.x is standard on modern distros)."
-    exit 1
-fi
+# if [[ -z "${BASH_VERSINFO[0]}" ]] || [[ "${BASH_VERSINFO[0]}" -lt 5 ]]; then
+#     echo "ERROR: Shai-Hulud Detector requires Bash 5.0 or newer."
+#     echo "You appear to be running: ${BASH_VERSION:-unknown}."
+#     echo
+#     echo "macOS:   brew install bash && run with:  /opt/homebrew/bin/bash $0 ..."
+#     echo "Linux:   install a current bash via your package manager (bash 5.x is standard on modern distros)."
+#     exit 1
+# fi
+
 
 set -eo pipefail
 
